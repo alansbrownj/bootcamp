@@ -10,4 +10,4 @@ editor_options:
 
 Welcome to my research website.
 
-[test bootcamp differiential expression analysis](differential-expression.html)
+Look at the site I made during the bootcamp! [test bootcamp differiential expression analysis](differential-expression.html)
