@@ -17,7 +17,7 @@ library(edgeR)
 Import counts.
 
 ```{r import}
-rawData <- read.table("~/scratch/bootcamp/data/counts.txt",
+rawData <- read.table("data/counts.txt",
                       header = TRUE,
                       stringsAsFactors = FALSE)
 dim(rawData)
